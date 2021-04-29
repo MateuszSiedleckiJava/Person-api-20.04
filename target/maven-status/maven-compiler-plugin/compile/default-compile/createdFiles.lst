@@ -1,5 +1,4 @@
 pl\kurs\java\model\Person.class
-pl\kurs\java\repository\PersonRepositoryImpl.class
 pl\kurs\java\repository\RetirementRepository.class
 pl\kurs\java\util\DateUtils.class
 pl\kurs\java\model\query\FindPersonQuery.class
@@ -9,7 +8,6 @@ pl\kurs\java\service\PersonService.class
 pl\kurs\java\model\Employee.class
 pl\kurs\java\model\QRetirement.class
 pl\kurs\java\model\QPerson.class
-pl\kurs\java\repository\PersonRepositoryCustom.class
 pl\kurs\java\model\QEmployee.class
 pl\kurs\java\repository\StudentRepository.class
 pl\kurs\java\repository\EmployeeRepository.class
